@@ -4,6 +4,8 @@
 
 RugIt is a desktop application built for Solana memecoins Rugpull tools, A complete set ready to use released.
 
+Made For Launching Coins On Pump.fun And Raydium DEX.
+
 Note: it may display a security warning when opening the application since there were some unsigned builds in the progress of applications building.
 
 ---
