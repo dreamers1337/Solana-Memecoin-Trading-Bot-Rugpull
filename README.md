@@ -38,6 +38,8 @@ Linux application — `.AppImage`
 
 ![RugIt Screenshot 1](rs/1.png)
 
+![RugIt Screenshot 1](rs/4.png)
+
 ![RugIt Screenshot 2](rs/2.jpeg)
 
 ![RugIt Screenshot 3](rs/3.jpeg)
